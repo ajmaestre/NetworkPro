@@ -28,4 +28,24 @@ Este proyecto implementa una red neuronal artificial utilizando el algoritmo de 
 * Los resultados del entrenamiento se guardan en la carpeta report/ en archivos de texto con información detallada sobre el proceso de entrenamiento.
 * Si tienes algún problema o pregunta, consulta la ventana de mensajes para recibir alertas sobre posibles errores.
 
+## Informe del proyecto
+[Descargar archivo](Informe.pdf)
+
+## Imagenes de la aplicación
+
+### Interfaz
+<div>
+    <img src="images-readme/image1.png">
+</div>
+
+### Modelo entrenado
+<div>
+    <img src="images-readme/image2.png">
+</div>
+
+### Modelo prediciendo
+<div>
+    <img src="images-readme/image.png">
+</div>
+
 ¡Disfruta explorando y experimentando con la red neuronal implementada en este proyecto!

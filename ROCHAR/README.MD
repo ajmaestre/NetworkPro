@@ -33,4 +33,27 @@ pip install numpy opencv-python scikit-learn matplotlib
 * Puedes modificar los parámetros del clasificador MLP en el archivo main.py para ajustar su rendimiento.
 * Asegúrate de tener suficiente poder de procesamiento y memoria disponible para entrenar el modelo, ya que el proceso puede ser intensivo en recursos.
 
+## Informe del proyecto
+[Descargar archivo](PROYECTO.pdf)
+
+## Artículo del proyecto
+[Descargar archivo](ARTICULO.pdf)
+
+## Imagenes de la aplicación
+
+### Entrenando el modelo
+<div>
+    <img src="images-readme/image1.png">
+</div>
+
+### Modelo entrenado
+<div>
+    <img src="images-readme/image2.png">
+</div>
+
+### Modelo prediciendo
+<div>
+    <img src="images-readme/image.png">
+</div>
+
 ¡Disfruta explorando el proyecto y experimentando con el reconocimiento de caracteres en imágenes!

@@ -23,3 +23,23 @@ Este proyecto implementa una Red Neuronal Artificial (RNA) en Python utilizando 
 * Carga un conjunto de datos CSV utilizando la opción "Cargar dataset" en el menú "Modelo".
 * Ajusta los parámetros de entrenamiento según sea necesario y haz clic en "Entrenar" para iniciar el entrenamiento de la RNA.
 * Una vez entrenada la RNA, puedes utilizar el panel de predicción para realizar predicciones con nuevos datos.
+
+## Informe del proyecto
+[Descargar archivo](Informe.pdf)
+
+## Imagenes de la aplicación
+
+### Interfaz
+<div>
+    <img src="images-readme/image1.png">
+</div>
+
+### Modelo entrenado
+<div>
+    <img src="images-readme/image2.png">
+</div>
+
+### Modelo prediciendo
+<div>
+    <img src="images-readme/image.png">
+</div>
