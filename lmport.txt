@@ -1,0 +1,36 @@
+
+NOTA: ANTES DE INSTALAR LAS LIBRERIAS SE DEBERIA INSTALAR EL MANEJADOR DE PAQUETES "PIP"
+
+1 - Documentación para la instlación:
+
+	https://pip.pypa.io/en/stable/installation/
+
+2 - Instalación:
+
+	a) descargar el archivo get-pip.py:
+	
+		https://bootstrap.pypa.io/get-pip.py
+
+	b) Ejecutar el archivo:
+
+		py get-pip.py
+
+	c) Verificar la instalación (en la terminal - cmd):
+
+		pip --version
+	
+	d) Respuesta o algo parecido (si está bien instalado):
+
+		pip 21.2.3 from C:\Python310\lib\site-packages\pip (python 3.10)
+
+
+###################################################### LIBRERIAS PARA INSTALAR ##############################################
+
+1 - Numpy (para operaciones matematicas y con matrices - util para la construccion del modelo):
+
+	pip install numpy
+
+2 - Matplotlib (para la creación de gráficas):
+
+	pip install matplotlib	
+
